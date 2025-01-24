@@ -1,4 +1,4 @@
-# Vite React TypeScript Starter
+# Chatbot
 
 This project is a starter template for building applications using Vite, React, and TypeScript. It is designed to provide a fast and efficient development experience.
 
@@ -46,6 +46,3 @@ This will create an optimized build of your application in the `dist` directory.
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or features.
 
-## License
-
-This project is licensed under the MIT License.
