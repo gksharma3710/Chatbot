@@ -42,7 +42,4 @@ npm run build
 
 This will create an optimized build of your application in the `dist` directory.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or features.
 
